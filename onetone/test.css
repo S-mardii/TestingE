@@ -1,0 +1,5 @@
+.active-tab > a {
+    background: #2b9c6a;
+    color: white;
+    margin: 2px;
+}
